@@ -6,7 +6,7 @@
   <p>Private, self-hosted media and home-network applications for the things you own.</p>
 </div>
 
-**[Player documentation](https://kinosail.github.io/kinosail/)** · **[Install with Docker](https://kinosail.github.io/kinosail/quickstart/)** · **[All Player features](https://kinosail.github.io/kinosail/features/)** · **[API & MCP](https://kinosail.github.io/kinosail/developer-guide/)**
+**[Player documentation](https://kinosail.com/docs/)** · **[Install with Docker](https://kinosail.com/quickstart/)** · **[All Player features](https://kinosail.com/features/)** · **[API & MCP](https://kinosail.com/developer-guide/)**
 
 Kinosail keeps your library on your own hardware and gives you focused tools for browsing, playback, subtitles, and household control.
 
@@ -14,7 +14,7 @@ Kinosail keeps your library on your own hardware and gives you focused tools for
 
 | Product | Purpose |
 | --- | --- |
-| [Kinosail Player](https://github.com/Kinosail/kinosail) | Browse and play movies, shows, music, audiobooks, books, and photos. |
+| [Kinosail Player](https://kinosail.com/) | Browse and play movies, shows, music, audiobooks, books, and photos. |
 | [Kinosail Subtitles](https://github.com/Kinosail/kinosail/tree/main/apps/subtitles) | Find, validate, and save subtitle sidecars beside your media. |
 | [Kinosail Dashboard](https://github.com/Kinosail/kinosail/tree/main/apps/dashboard) | Organize direct links to your household applications and check reachability. |
 | [Home Assistant integration](https://github.com/Kinosail/kinosail-home-assistant) | Connect Kinosail to your home automation setup. |
@@ -26,6 +26,6 @@ Kinosail keeps your library on your own hardware and gives you focused tools for
 - Use the web app, JSON API, and native Player clients for iPhone, iPad, and Apple TV.
 - Local use does not require a Kinosail-hosted account.
 
-Start with the [main repository](https://github.com/Kinosail/kinosail), read the [Docker installation guide](https://kinosail.github.io/kinosail/quickstart/), or [open an issue](https://github.com/Kinosail/kinosail/issues) when you find something worth improving.
+Start with the [main repository](https://github.com/Kinosail/kinosail), read the [Docker installation guide](https://kinosail.com/quickstart/), or [open an issue](https://github.com/Kinosail/kinosail/issues) when you find something worth improving.
 
 Kinosail is source-available under the [PolyForm Perimeter License 1.0.1](https://github.com/Kinosail/kinosail/blob/main/LICENSE).
